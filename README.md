@@ -1,2 +1,2 @@
-# score-analyser-format-independent-1
-An improved follow-up to the cbse-analyser project
+# score-analyser-1
+A format independent improved follow-up to the cbse-analyser project 
